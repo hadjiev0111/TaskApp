@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context=".form.FormFragment">
+    tools:context=".ui.form.FormFragment">
 
     <EditText
         android:id="@+id/editText"
